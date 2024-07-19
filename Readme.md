@@ -15,8 +15,6 @@ The **Vault Contract** is a smart contract written in Solidity that allows users
 
 ## ⚙️ **Setup and Installation**
 
-## ⚙️ **Setup and Installation**
-
 ```bash
 # Clone the Repository
 git clone https://github.com/yourusername/your-repo-name.git
